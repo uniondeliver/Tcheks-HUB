@@ -1,2 +1,0 @@
-local placeId = game.PlaceId
-
