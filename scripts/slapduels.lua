@@ -493,4 +493,4 @@ ThemeManager:ApplyToTab(Tabs['UI Settings'])
 
 SaveManager:LoadAutoloadConfig()
 
-Library:Notify("Slap Duels loaded successfully!\nMade by nilly", 5)
+Library:Notify("Slap Duels loaded successfully!\nMade by SoZa9327", 5)
