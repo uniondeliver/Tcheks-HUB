@@ -1,14 +1,9 @@
 {
     "games": [
         {
-            "name": "Example Game 1",
-            "placeId": 123456789,
-            "script": "scripts/example1.lua"
-        },
-        {
-            "name": "Example Game 2",
-            "placeId": 987654321,
-            "script": "scripts/example2.lua"
+            "name": "Slap Duels",
+            "placeId": 139766023909499,
+            "script": "scripts/slapduels.lua"
         }
     ]
 }
