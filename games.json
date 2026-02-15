@@ -4,6 +4,11 @@
             "name": "Slap Duels",
             "placeId": 139766023909499,
             "script": "scripts/slapduels.lua"
+        },
+        {
+            "name": "NASCAR Racing",
+            "placeId": 139757796668792,
+            "script": "scripts/nascar.lua"
         }
     ]
 }
